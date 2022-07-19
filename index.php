@@ -17,20 +17,20 @@
 			<div id="header">
 				<span class="logo icon fa-paper-plane"></span>
 				<h1>Hola. Somos la veterinaria .</h1>
-				<p> Desearemos brindarte, a vos y a tu mascota, <a href="http://html5up.net">HTML5 UP</a>
+				<p> Deseamos brindarte, a vos y a tu mascota, <a></a>
 				<br />
-				el mejor servicio posible<a href="http://html5up.net/license">Creative Commons license</a>.</p>
+				el mejor servicio posible<a></a>.</p>
 			</div>
 
 		<!-- Main -->
 			<div id="main">
 
 				<header class="major container medium">
-					<h2>No dudes en contactarte
+					<h2>Este emprendimiento tiene un enfoque por y para los animales.
 					<br />
-					con nosotros
+					Pensados para la comodidad del paciente y del cliente,
 					<br />
-					tenemos diversas redes sociales</h2>
+					contamos con una gran variedad de medicina para animales y herramientas para ayudarles</h2>
 					<!--
 					<p>Tellus erat mauris ipsum fermentum<br />
 					etiam vivamus nunc nibh morbi.</p>
@@ -39,24 +39,26 @@
 
 				<div class="box alt container">
 					<section class="feature left">
-					<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+					<span class="image main"><img src="images/pic01.jpg" alt="" width= "500px" /></span>
 					<div class="content">
 							<h3>Nosotros</h3>
-							<p> somos una empresa especializada que vive por y para los animales.</p>
+							<p> Somos una empresa que contamos con los mejores Médicos Veterinarios con formación académica de calidad para ofrecerles las herramientas necesarias para cuidar de tu mascota.</p>
 						</div>
 					</section>
 					<section class="feature right">
-					<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
+					<span class="image main"><img src="images/veterinario.jpg" alt="" width= "500px" /></span>
 						<div class="content">
-							<h3>The Second Thing</h3>
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+							<h3>Objetivo principal</h3>
+							<p>Brindarte el mejor servicio posible para el cuidado de tu mascota, cumplir con las necesidades diarias del animal y ayudar en que tenga la vida más sana posible.</p>
 						</div>
 					</section>
 					<section class="feature left">
-					<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+					<span class="image main"><img src="images/gato.jpg" alt="" width= "500px" /></span>
 						<div class="content">
-							<h3>The Third Thing</h3>
-							<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus eget. Nunc nibh morbi quis fusce lacus.</p>
+							<h3>Horarios de atención en nuestro local</h3>
+							<p> Lunes a viernes 9.00hs-13.00hs y 14.30hs-19.30hs.
+								Sábados 9.00hs-12.00hs
+							</p>
 						</div>
 					</section>
 				</div>
@@ -205,10 +207,10 @@
 				-->
 
 				<footer class="major container medium">
-					<h3>Get shady with science</h3>
-					<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
+					<h3>Aviso importante</h3>
+					<p>Si estás interesado en ayudar a recolectar fondos para esta ONG que rescata mascotas en situación de calle.</p>
 					<ul class="actions special">
-						<li><a href="#" class="button">Join our crew</a></li>
+						<li><a href="https://www.guiaongs.org/directorio/ongs/a-p-a-d-a-c-5-1-1582/" class="button">Haz clic aquí</a></li>
 					</ul>
 				</footer>
 
@@ -219,37 +221,39 @@
 				<div class="container medium">
 
 					<header class="major last">
-						<h2>Questions or comments?</h2>
+						<h2>¿Querés registrarte en nuestra sede virtual y ser parte de nuestra comunidad?</h2>
 					</header>
 
-					<p>Vitae natoque dictum etiam semper magnis enim feugiat amet curabitur tempor
-					orci penatibus. Tellus erat mauris ipsum fermentum etiam vivamus.</p>
+					<p> Llena este formulario con tus datos personales tuyo y de tu mascota
+						Ante cualquier duda posible, podes dejarnos un mensaje aqui abajo.</p>
 
 					<form method="post" action="#">
 						<div class="row">
 							<div class="col-6 col-12-mobilep">
-								<input type="text" name="name" placeholder="Name" />
+								<input type="text" name="name" placeholder="Nombre" />
+							</div>
+							<div class="col-6 col-12-mobilep">
+								<input type="text" name="name" placeholder="Nombre de la mascota" />
 							</div>
 							<div class="col-6 col-12-mobilep">
 								<input type="email" name="email" placeholder="Email" />
 							</div>
 							<div class="col-12">
-								<textarea name="message" placeholder="Message" rows="6"></textarea>
+								<textarea name="message" placeholder="Mensaje (opcional)" rows="6"></textarea>
 							</div>
 							<div class="col-12">
 								<ul class="actions special">
-									<li><input type="submit" value="Send Message" /></li>
+									<li><input type="submit" value="Enviar formulario" /></li>
 								</ul>
 							</div>
 						</div>
 					</form>
 
 					<ul class="icons">
-						<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
-						<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
+						<li><a href="https://api.whatsapp.com/send?phone=3416869300" class="icon brands fa-whatsapp"><span class="label">Whatsapp</span></a></li>
+						<li><a href="https://www.facebook.com/mascotasdel.oeste" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/mascotasdeloeste/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://github.com/juanmagnani/Veterinaria" class="icon brands fa-github"><span class="label">Github</span></a></li>
 					</ul>
 
 					<ul class="copyright">
